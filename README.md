@@ -1,7 +1,7 @@
-Oiie! Eu sou a Aline Ferri
+Oiie! Eu sou a Aline Ferri 👻
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 ela/dela
-- 📚 Sou autodidata e viciada em estudar e aprender coisas novas
+- 📚 Sou autodidata, viciada em aprender e estudar coisas novas
 
 <div align="center">
   <a href="https://github.com/alineferri">
