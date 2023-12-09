@@ -1,8 +1,8 @@
-Oiie! Eu sou a Aline Ferri 👽
+Oiie! Eu sou a Aline 👽
 - 🌱 Aprendendo JavaScript e React
-- 👩🏻‍🎓 Me formei em Análise e Desenvolvimento de Sistemas
+- 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 😄 ela/dela
-- 📚 Sou autodidata, viciada em aprender e estudar coisas novas
+- 📚 Sou autodidata e estou sempre estudando, amo aprender coisas novas!
 
 <div align="center">
   <a href="https://github.com/alineferri">
