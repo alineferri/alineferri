@@ -1,5 +1,5 @@
 Oiie! Eu sou a Aline Ferri 👽
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Aprendendo JavaScript e React
 - 👩🏻‍🎓 Me formei em Análise e Desenvolvimento de Sistemas
 - 😄 ela/dela
 - 📚 Sou autodidata, viciada em aprender e estudar coisas novas
